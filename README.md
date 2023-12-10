@@ -15,6 +15,9 @@
 - Error Handling: Provides informative error messages in case of any issues.
 - DNS Override: Overriding DNS of the config.json
 
+## Download 
+
+https://github.com/M0nTan3/SingboxGUI/releases/download/file/singboxGUI.exe
 
 
 ## Configuration
