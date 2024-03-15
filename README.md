@@ -1,4 +1,5 @@
 ## Screenshot
+
 <p align="center">
   <img src="https://github.com/M0nTan3/singboxgui/blob/main/singbox.png" alt="Logo" />
 </p>
