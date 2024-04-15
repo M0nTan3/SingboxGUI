@@ -6,7 +6,7 @@
 
 ## Features
 
-- Connect and Disconnect: Start and stop the SingBox application with the click of  a button
+- Connect and Disconnect: Start and stop the SingBox application with the click of a button
 - Use Local Config: Choose to use a local configuration file for customization.
 - Display IP and Location: View your IP address and location information within the application.
 - Save Subscription Link: Save your subscription link for easy access.
